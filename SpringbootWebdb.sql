@@ -18,3 +18,7 @@ create database SpringbootwebDB;
 
 --display table values 
 select * from employeed;
+
+--show fields of table
+show fields from employeed;
+
